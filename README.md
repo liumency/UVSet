@@ -5,4 +5,5 @@ A fine-grained urban village dataset is proposed for large-scale urban village e
 
 The UVSet is now available at [**Onedrive**](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/liumx23_mail2_sysu_edu_cn/EhKNkb89k2BPn2ASW3WqYuUBNkUAioi9hZbnpHILG-8akg?e=mhyISV) and [**BaiduYun**](https://pan.baidu.com/s/1fEIBfQ0CwEpFB3-93aV3uQ?pwd=djd3).
 
-   ![datasets](figs/UVset.png)
+
+<div align=center><img src="figs/UVset.png" width="600" alt="UGS-1m"/><br/></div>
